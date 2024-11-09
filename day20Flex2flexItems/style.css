@@ -1,0 +1,121 @@
+.mainHeading {
+  text-align: center;
+}
+.BJPLogo {
+  position: fixed;
+  z-index: 2;
+  width: 100px;
+  right: 20px;
+}
+.mainContainer {
+  display: flex;
+}
+.itemDimensions {
+  width: 100px;
+  height: 100px;
+  border-radius: 15px;
+  text-align: center;
+  font-size: 4rem;
+}
+.BJPContainers {
+  display: flex;
+}
+.bColor {
+  background-color: rgb(238, 83, 17);
+}
+.parentDiv {
+  display: flex;
+  width: 130px;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.b11 {
+  height: 600px;
+  position: relative;
+  left: 15px;
+}
+
+.b22 {
+  height: 582px;
+  position: relative;
+  top: 10px;
+  bottom: 8px;
+}
+
+.b33 {
+  height: 560px;
+  margin-right: 150px;
+  position: relative;
+  top: 20px;
+  right: 5px;
+}
+
+.b33RadiusFirstItem {
+  position: relative;
+  right: 20px;
+  top: 10px;
+}
+.b33RadiusThirdItem {
+  position: relative;
+  right: 20px;
+  bottom: 10px;
+}
+
+.jColor {
+  background-color: aqua;
+}
+.j11 {
+  height: 600px;
+  margin-bottom: 50px;
+}
+
+.j22 {
+  height: 600px;
+  margin-bottom: 50px;
+}
+
+.j33 {
+  height: 600px;
+  margin-bottom: 50px;
+  margin-right: 150px;
+}
+
+.pColor {
+  background-color: #4ac64a;
+}
+.p11 {
+  height: 600px;
+  margin-bottom: 50px;
+}
+
+.p22 {
+  height: 340px;
+  margin-bottom: 50px;
+}
+
+.p33 {
+  height: 340px;
+  margin-bottom: 50px;
+  margin-right: 150px;
+}
+
+.p33RadiusFirstItem {
+  position: relative;
+  right: 15px;
+  top: 10px;
+}
+.p33RadiusThirdItem {
+  position: relative;
+  right: 15px;
+  bottom: 10px;
+}
+.stickyProperty {
+  position: sticky;
+  top: 0px;
+  z-index: 10;
+}
+p {
+  text-align: justify;
+}
+
+
